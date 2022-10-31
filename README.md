@@ -23,15 +23,15 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+I) install git
 
-### Install
+II) open the terminal
 
-### Usage
+III) change to the directory to which the remote directory shall be cloned to
 
-### Run tests
+IV) copy the url link from the git hub of the repo and clone it into the directory
 
-### Deployment
+V) change diectory to the created folder
 
 ## Authors
 
